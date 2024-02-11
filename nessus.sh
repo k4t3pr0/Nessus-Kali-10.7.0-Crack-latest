@@ -45,7 +45,7 @@ echo "   Updates: Off"
 echo "   Telemetry: Off"
 /opt/nessus/sbin/nessuscli fix --set report_crashes=false &>/dev/null
 /opt/nessus/sbin/nessuscli fix --set send_telemetry=false &>/dev/null
-echo " + Adding a user, can change later (Username: admin, Password: ddosi)"
+echo " + Adding a user, can change later (Username: admin, Password: admin)"
 cat > expect.tmp<<'EOF'
 spawn /opt/nessus/sbin/nessuscli adduser admin
 expect "Login password:"
