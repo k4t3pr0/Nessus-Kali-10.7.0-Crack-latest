@@ -29,4 +29,4 @@ apt remove nessus
 - Solution: Just wait patiently for 3 to 5 minutes.
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=k4t3pr0/Nessus-10.7.0-Crack-latest&type=Date)](https://star-history.com/#k4t3pr0/Nessus-Kali-10.7.0-Crack-latest&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=k4t3pr0/Nessus-Kali-10.7.0-Crack-latest&type=Date)](https://star-history.com/#k4t3pr0/Nessus-Kali-10.7.0-Crack-latest&Date)
